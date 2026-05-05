@@ -1,0 +1,16 @@
+ul{
+    list-style: none; 
+}
+lia{
+    color: #fff;
+     text-decoration: none;
+      padding: 4px 7px;
+       width: 120px;
+        background: hsl(0, 100%, 36%);
+         display: block;
+          border: 1px solid #fff;
+           font-weight: bold; 
+}
+li a:hover{
+background: #d36800; 
+}
